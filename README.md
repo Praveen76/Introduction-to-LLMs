@@ -69,10 +69,6 @@ If you have valuable insights, corrections, or additional resources to share, pl
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgments
-
-A big thank you to all contributors and resources that have enriched this guide.
-
 ## Contact
 
 For questions or inquiries, feel free to contact me on [Linkedin](https://www.linkedin.com/in/praveen-kumar-anwla-49169266/).
