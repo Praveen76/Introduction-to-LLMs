@@ -63,7 +63,10 @@ Explore these Jupyter notebooks for hands-on examples and practical demonstratio
 
 ## Contributing
 
-If you have valuable insights, corrections, or additional resources to share, please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on contributing to this project.
+If you have a Data Science mini-project that you'd like to share, please follow the guidelines in [CONTRIBUTING.md](https://github.com/Praveen76/Data-Science-Mini-Projects/blob/main/contributing.md).
+
+## Code of Conduct
+Please adhere to our [Code of Conduct](https://github.com/Praveen76/Data-Science-Mini-Projects/blob/main/CODE_OF_CONDUCT.md) in all your interactions with the project.
 
 ## License
 
